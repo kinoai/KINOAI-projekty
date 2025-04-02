@@ -32,19 +32,23 @@ Dodatkowo, wkrótce powstanie oddzielne repo, działające w bardzo podobnej for
 
 # Q&A
 
+**Q:** Czy nad projektem może pracować ktoś z zewnątrz?  
+**A:** Nie ma problemu, niech taka osoba wypełni ankietę członkowską, zapozna się z kołem i zapraszamy  
 
-* Q: Czy nad projektem może pracować ktoś z zewnątrz?
-* A: Nie ma problemu, niech taka osoba wypełni ankietę członkowską, zapozna się z kołem i zapraszamy
+**Q:** Nie zgadzam się z tym jak dany projekt jest prowadzony (np. główny ogarniacz projektu źle rozbija rzeczy do zrobienia na issues, przypisuje je w nie fair sposób) i oczekuje *szybkich* zmian. Co robić?  
+**A:** Zgłosić się do kogoś z zarządu (jeśli główny ogarniacz do ww. projektu jest z zarządu to naturalnie do kogoś innego z zarządu)
 
-* Q: Nie zgadzam się z tym jak dany projekt jest prowadzony (np. główny ogarniacz projektu źle rozbija rzeczy do zrobienia na issues, przypisuje je w nie fair sposób) i oczekuje *szybkich* zmian. Co robić?
-* A: Zgłosić się do kogoś z zarządu (jeśli główny ogarniacz do ww. projektu jest z zarządu to naturalnie do kogoś innego z zarządu)
-* Q: Nie zgadzam się z tym jak dany projekt jest prowadzony (np. główny ogarniacz projektu źle rozbija rzeczy do zrobienia na issues, przypisuje je w nie fair sposób) i oczekuje *strukturalnych* zmian. Co robić?
-* A: Dokładnie i szczegółowo wynotować *co* jest nie tak, *dlaczego* jest nie tak, i jak powinno być 1) *w idealnym przypadku* 2) *w realistycznym na miarę możliwości naszej Sekcji przypadku* - wszystko to albo zgłosić anonimowo przez ankietę, albo wygłosić publicznie (alternatywnie wydrukować i przykleić do drzwi CTI)
-* Q: Mam pomysł na projekt ale nie wiem jak go dokładnie zrealizować/czy ma ręce i nogi/czy jest realistycznie do wykonania w takim czy innym przedziale czasu/etc. Co robić?
-* A: Dorwać kogoś z zarządu. Chętnie siądziemy i się pochylimy nad Twoimi pomysłami.
-* Q: Mam projekt nad którym już pracuje, wykonując samemu znaczną ilość pracy. Czy mogę w jakiejś formie (w poszukiwaniu darmowej mocy przerobowej) podrzucić to tutaj?
-* A: Tak, nie ma problemu, jak długo uczciwie przedstawisz sytuację w opisie projektu i jesteś pewien że dasz radę wykrawywać małe taski ze swojego projektu w taki sposób, żeby wdrożenie się do ich wykonywania nie zajmowało nieproporcjonalnie dużo czasu
-* Q: Nie mam pomysłu na projekt, ale bardzo bym go chciał mieć. Co w takim wypadku zrobić?
-* A: Przyjdź na sekcję literature review. Albo napisz do kogoś z zarządu (preferencyjnie Maćka), że bardzo się interesujesz i znasz się na xyz, i szukasz pomysłów jak xyz połączyć z uczeniem maszynowym
-* Q: Bardzo bym chciał popracować nad którymś z projektów, ale obawiam się że nie mam umiejętności / nie wiem jak.
-* A: Niestety, nie ma lepszej drogi do nauki niż przez robienie. Jeśli dopiero zaczynasz przygodę z Politechniką Łódzką, możesz oczekiwać, że w przyszłych semestrach pojawiać się będzie coraz to więcej form wdrażania się od podstaw (dodatkowo coraz to bardziej wyszlifowanych) - jeśli Politechnikę Łódzką już powoli kończysz, musisz oprzeć się na istniejących zasobach. Nie bój się spróbować swoich sił przeciw ambitnym zadaniom - ktoś powinnien Ci pomóc jeśli kompletnie się pogubisz.
+**Q:** Nie zgadzam się z tym jak dany projekt jest prowadzony (np. główny ogarniacz projektu źle rozbija rzeczy do zrobienia na issues, przypisuje je w nie fair sposób) i oczekuje *strukturalnych* zmian. Co robić?  
+**A:** Dokładnie i szczegółowo wynotować *co* jest nie tak, *dlaczego* jest nie tak, i jak powinno być 1) *w idealnym przypadku* 2) *w realistycznym na miarę możliwości naszej Sekcji przypadku* - wszystko to albo zgłosić anonimowo przez ankietę, albo wygłosić publicznie (alternatywnie wydrukować i przykleić do drzwi CTI)
+
+**Q:** Mam pomysł na projekt ale nie wiem jak go dokładnie zrealizować/czy ma ręce i nogi/czy jest realistycznie do wykonania w takim czy innym przedziale czasu/etc. Co robić?  
+**A:** Dorwać kogoś z zarządu. Chętnie siądziemy i się pochylimy nad Twoimi pomysłami.
+
+**Q:** Mam projekt nad którym już pracuje, wykonując samemu znaczną ilość pracy. Czy mogę w jakiejś formie (w poszukiwaniu darmowej mocy przerobowej) podrzucić to tutaj?  
+**A:** Tak, nie ma problemu, jak długo uczciwie przedstawisz sytuację w opisie projektu i jesteś pewien że dasz radę wykrawywać małe taski ze swojego projektu w taki sposób, żeby wdrożenie się do ich wykonywania nie zajmowało nieproporcjonalnie dużo czasu
+
+**Q:** Nie mam pomysłu na projekt, ale bardzo bym go chciał mieć. Co w takim wypadku zrobić?  
+**A:** Przyjdź na sekcję literature review. Albo napisz do kogoś z zarządu (preferencyjnie Maćka), że bardzo się interesujesz i znasz się na xyz, i szukasz pomysłów jak xyz połączyć z uczeniem maszynowym
+
+**Q:** Bardzo bym chciał popracować nad którymś z projektów, ale obawiam się że nie mam umiejętności / nie wiem jak.  
+**A:** Niestety, nie ma lepszej drogi do nauki niż przez robienie. Jeśli dopiero zaczynasz przygodę z Politechniką Łódzką, możesz oczekiwać, że w przyszłych semestrach pojawiać się będzie coraz to więcej form wdrażania się od podstaw (dodatkowo coraz to bardziej wyszlifowanych) - jeśli Politechnikę Łódzką już powoli kończysz, musisz oprzeć się na istniejących zasobach. Nie bój się spróbować swoich sił przeciw ambitnym zadaniom - ktoś powinnien Ci pomóc jeśli kompletnie się pogubisz.
