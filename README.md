@@ -31,8 +31,11 @@ Dodatkowo, wkrótce powstanie oddzielne repo, działające w bardzo podobnej for
 * Maciej Cichoń - .grandad, maciej.cichon@cti.p.lodz.pl, 721818281
 
 # Q&A
+
+
 * Q: Czy nad projektem może pracować ktoś z zewnątrz?
 * A: Nie ma problemu, niech taka osoba wypełni ankietę członkowską, zapozna się z kołem i zapraszamy
+
 * Q: Nie zgadzam się z tym jak dany projekt jest prowadzony (np. główny ogarniacz projektu źle rozbija rzeczy do zrobienia na issues, przypisuje je w nie fair sposób) i oczekuje *szybkich* zmian. Co robić?
 * A: Zgłosić się do kogoś z zarządu (jeśli główny ogarniacz do ww. projektu jest z zarządu to naturalnie do kogoś innego z zarządu)
 * Q: Nie zgadzam się z tym jak dany projekt jest prowadzony (np. główny ogarniacz projektu źle rozbija rzeczy do zrobienia na issues, przypisuje je w nie fair sposób) i oczekuje *strukturalnych* zmian. Co robić?
