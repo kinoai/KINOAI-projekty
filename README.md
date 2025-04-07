@@ -42,7 +42,7 @@ Dodatkowo, wkrótce powstanie oddzielne repo, działające w bardzo podobnej for
 **A:** Zgłosić się do kogoś z zarządu (jeśli główny ogarniacz do ww. projektu jest z zarządu to naturalnie do kogoś innego z zarządu)
 
 **Q:** Nie zgadzam się z tym jak dany projekt jest prowadzony (np. główny ogarniacz projektu źle rozbija rzeczy do zrobienia na issues, przypisuje je w nie fair sposób) i oczekuje *strukturalnych* zmian. Co robić?  
-**A:** Dokładnie i szczegółowo wynotować *co* jest nie tak, *dlaczego* jest nie tak, i jak powinno być 1) *w idealnym przypadku* 2) *w realistycznym na miarę możliwości naszej Sekcji przypadku* - wszystko to albo zgłosić anonimowo przez ankietę, albo wygłosić publicznie (alternatywnie wydrukować i przykleić do drzwi CTI)
+**A:** Dokładnie i szczegółowo wynotować *co* jest nie tak, *dlaczego* jest nie tak, i jak powinno być 1) *w idealnym przypadku* 2) *w realistycznym na miarę możliwości naszej Sekcji przypadku* - wszystko to albo zgłosić anonimowo przez ankietę [Link do anonimowej ankiety feedbackowej - wypełnienie tego naprawdę nam pomaga!](https://forms.gle/C4TFqN5ncGuMKP5Z7), albo wygłosić publicznie (alternatywnie wydrukować i przykleić do drzwi CTI)
 
 **Q:** Mam pomysł na projekt ale nie wiem jak go dokładnie zrealizować/czy ma ręce i nogi/czy jest realistycznie do wykonania w takim czy innym przedziale czasu/etc. Co robić?  
 **A:** Dorwać kogoś z zarządu. Chętnie siądziemy i się pochylimy nad Twoimi pomysłami.
