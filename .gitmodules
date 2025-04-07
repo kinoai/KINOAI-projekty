@@ -1,0 +1,3 @@
+[submodule "time-series/ETDataset"]
+	path = time-series/ETDataset
+	url = https://github.com/zhouhaoyi/ETDataset.git
