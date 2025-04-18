@@ -97,6 +97,32 @@ Istnieją duże ilości GPU nie będących wykorzystywanych w pełni, tj działa
 
 W samej rzeczy, wyżej wspomniany model nie wymagał by żadnej dodatkowej pracy ze strony technicznej.
 
+# Bibliografia
+
+[distro]: Nous Research, "DisTro: A Framework for Distributed Training", 2024.
+
+[demo]: Nous Research & Kingma, D., "DeMo: Decoupled Momentum Optimization for efficient distributed training", 2024.
+
+[swarm]: "SWARM Parallelism: High-performance distributed training framework for deep learning", 2023-2024.
+
+[nous]: Nous Research, https://nousresearch.com/
+
+[adam]: Kingma, D. P., & Ba, J., "Adam: A Method for Stochastic Optimization", arXiv preprint arXiv:1412.6980, 2014.
+
+[hermes]: Nous Research, "Hermes: High-performance language model series", 2023-2024.
+
+[aiact]: European Commission, "EU AI Act: Regulatory framework for artificial intelligence", 2023-2024.
+
+[federated]: "Federated Learning: Collaborative machine learning without centralized training data", 2016-2024.
+
+[primesearch]: GIMPS (Great Internet Mersenne Prime Search), https://www.mersenne.org/
+
+[DiLoCo]: "Streaming DiLoCo: A distributed method for synchronizing model parameters in neural networks", 2023-2024.
+
+[fsdp]: PyTorch Team, "Fully Sharded Data Parallel: Memory-efficient distributed training framework", 2022-2024.
+
+[swarm]: "SWARM Parallelism: Distributed training algorithm focusing on computational efficiency", 2023-2024.
+
 
 # info
 
