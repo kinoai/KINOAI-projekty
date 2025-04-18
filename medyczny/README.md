@@ -24,6 +24,6 @@ Co by to włączało:
 
 
 Natomiast z małych rzeczy to dobrze by było porobić więcej eksperymentów (tj. po pierwsze poprzestawiać hiperparametry na każdą stronę i porobić z tego wykresiki, po drugie na czymś innym niż wątroba/rak wątroby) i jakoś to co jest ładnie opisać, czy to w formie posterowej, czy to w formie paperu, czy jakiegoś referatu.
-## Zespół
+## Ogarniacze
 - **Główny ogarniacz #1**: Maciej Cichoń (.grandad na Discordzie)
 - **Główny ogarniacz #2**: Natalia Błaszczyk (blatalia na Discordzie)
