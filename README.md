@@ -23,12 +23,12 @@ Dodatkowo, wkrótce powstanie oddzielne repo, działające w bardzo podobnej for
 # Obecne projekty
 
 * Segmentacja zabytków
-* Segmentacja medyczna -- README w konstrukcji
+* Segmentacja medyczna
 * Whisper TTS / Whisper STT
 * GNNy --README w konstrukcji
 * Time series
 * Luźne i szybkie do przetestowania idee wynikające ze spotkań literature review -- README w konstrukcji
-* Reprodukcje -- README w konstrukcji
+* Reprodukcje
 
 # Do kogo zgłaszać nowe projekty
 * Maciej Cichoń - .grandad, maciej.cichon@cti.p.lodz.pl, 721818281
