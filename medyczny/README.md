@@ -4,7 +4,7 @@
 Projekt dedykowany segmentacji medycznej.
 
 ## Początkowe cele
-Na poczatku projekt skupiał się na reprodukcji bardzo prostej sprawy - porównanie działąnia sieci Unetowych na segmentacje obrazów CT raka wątroby ( (LITS benchmark) )[https://arxiv.org/abs/1901.04056] z działaniem sieci Vnetowych.
+Na poczatku projekt skupiał się na reprodukcji bardzo prostej sprawy - porównanie działąnia sieci Unetowych na segmentacje obrazów CT raka wątroby [(LITS benchmark)](https://arxiv.org/abs/1901.04056) z działaniem sieci Vnetowych.
 
 ## Stan obecny
 - Skrypt do konwersji z dicoma na nifti z całym chrzanieniem się które to potencjalnie włącza
